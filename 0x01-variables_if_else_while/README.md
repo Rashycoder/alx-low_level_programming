@@ -3,3 +3,4 @@
 2. This program will assign a random number to the variable n each time it is executed
 4. a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
 5. a program that prints the alphabet in lowercase, followed by a new line.
+ 6. a program that prints the alphabet in lowercase, followed by a new line.all the letters except q and e
