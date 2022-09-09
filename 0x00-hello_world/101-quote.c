@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
-* Main - print a text
+* Main - prints quote by Dora Korpar
+* followed by a new line to standard error
 * Return: Always 1
 */
 int main(void)
