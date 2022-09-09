@@ -3,7 +3,7 @@
 /**
 * Main - prints quote by Dora Korpar
 * followed by a new line to standard error
-* Return: Always 1
+* Return: Always 0 (success)
 */
 int main(void)
 {
