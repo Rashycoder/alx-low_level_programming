@@ -8,3 +8,4 @@ file 6 contains a function that computes the absolute value of an integer
 file 7 contains a function that prints the last digit of a number.
  File 8 contains a function that prints every minute of the day of Jack Bauer, starting from 00:00 to 23:59.
 file 9 contains aa function that prints the 9 times table, starting with 0.
+ File 10 contains  a function that adds two integers and returns the result.
