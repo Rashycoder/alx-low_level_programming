@@ -1,18 +1,14 @@
-#include "main.h"
+#include <stdlib.h>
+#include <time.h>
+#include <stdio.h>
+
 /**
- * main - Entry point
+ * main - prints putchar and a new line
  *
- * Return: Always 0 (Succeful)
+ * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char *sh = "_putchar";
-
-	while (*sh)
-	{
-		_putchar(*sh);
-		sh++;
-	}
-	_putchar('\n');
-	return (0);
+printf("_putchar\n");
+return (0);
 }
