@@ -3,3 +3,4 @@ File 1 -aplhabe.c is a function that prints alphabet in lowercase followed by a 
 this function for file 2 is a function that prints 10 times the alphabet, in lowercase, followed by a new line
 file number 3 is a function that checks for lowercase characters
 File 4 has a function that checks for alphabetic characters
+function in file number 5 returns the sign of a number
