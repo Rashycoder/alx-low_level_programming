@@ -10,9 +10,9 @@ int main(void)
 
 	while (*sh)
 	{
-		_putchar(*sh)
+		_putchar(*sh);
 		sh++;
 	}
-	_putchar("\n");
+	_putchar('\n');
 	return (0);
 }
