@@ -5,3 +5,4 @@ File 2 has a function that returns the length of a string
  File 4 contains a function that prints string in reverse
  File 5 has a function that Reverses a string
  File 6 has a funcion that prints characters of a string
+ file 7 has a function that prints half a sting
