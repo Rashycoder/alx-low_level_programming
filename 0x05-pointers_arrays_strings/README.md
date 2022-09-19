@@ -6,3 +6,5 @@ File 2 has a function that returns the length of a string
  File 5 has a function that Reverses a string
  File 6 has a funcion that prints characters of a string
  file 7 has a function that prints half a sting
+ File 8 hasa function that prints given elements of an array of int
+ File 9 has a function that copies a string
