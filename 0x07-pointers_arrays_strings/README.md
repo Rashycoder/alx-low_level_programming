@@ -10,3 +10,6 @@ File 4 has a function that searches a string for any of a set of bytes.
 
 File 5 has a function that locates a substring.
 
+File 7 has a functionthat prints the chessboard.
+File 8 has a function that prints the sum of the two diagonals of a square matrix of integers.
+
