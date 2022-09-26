@@ -13,3 +13,6 @@ File 5 has a function that locates a substring.
 File 7 has a functionthat prints the chessboard.
 File 8 has a function that prints the sum of the two diagonals of a square matrix of integers.
 
+File 100 hasa function thatsets the value of a pointer to a char.
+File 101 contains the password for the crackme2 executable.
+
