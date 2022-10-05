@@ -1,2 +1,3 @@
-Function that creates a static lib
+Function that creates a static library
+
 
